@@ -1,0 +1,1 @@
+web: gunicorn person-finder.wsgi --log-file -
